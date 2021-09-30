@@ -372,7 +372,7 @@ a:hover {
     }
 }
 
-@media (min-width: 996px) {
+@media (min-width: 767px) {
     #module1video .right {
         margin-right: 2%;
     }
